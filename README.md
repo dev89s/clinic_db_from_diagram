@@ -203,7 +203,7 @@ Example:
 
 ## 👥 Authors <a id="authors"></a>
 
-👤 **Author1**
+👤 **Sasan Moshirabadi**
 
 - GitHub: [@dev89s](https://github.com/dev89s)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/sasan-moshirabadi)
