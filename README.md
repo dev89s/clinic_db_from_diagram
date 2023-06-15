@@ -22,7 +22,6 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -31,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  <!-- - [🚀 Live Demo](#live-demo) -->
+    <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -52,6 +51,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 About The Project <a id="about-project"></a>
 
 **Clinic DB** is a database that is created based off a diagram. It includes 5 tables:
+
 1. Patients
 2. Medical_histories
 3. Treatments
@@ -116,9 +116,11 @@ Then follow the instructions (1-2-3) in [here](https://postgresapp.com/)
 
 And then if you have an open terminal close and open a new one.
 Enter the command below:
- ```sh
-  $ psql
-  ```
+
+```sh
+ $ psql
+```
+
 Use all the default fields by pressing enter and you'll be logged in.
 
 <br />
@@ -147,7 +149,8 @@ Example commands:
   cd my-folder
   git clone https://github.com/dev89s/clinic_db_from_diagram.git
 ```
-<!-- 
+
+<!--
 ### Install
 
 Install this project with: -->
@@ -172,7 +175,7 @@ Example command:
   rails server
 ```
 --->
-<!-- 
+<!--
 ### Run tests
 
 To run tests, run the following command: -->
@@ -208,25 +211,21 @@ Example:
 - GitHub: [@dev89s](https://github.com/dev89s)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/sasan-moshirabadi)
 
-<!-- 👤 **Author2**
+👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
+- GitHub: [@UbdaNam](https://github.com/UbdaNam)
+- LinkedIn: [Abdurahim M.](https://www.linkedin.com/in/abdurahim-miftah/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-<!-- 
-## 🔭 Future Features <a id="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Add data to the schema**
+- [ ] **Add queries to get particular data**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -238,15 +237,11 @@ Feel free to give any recommendations [issues page](https://github.com/dev89s/ve
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+## ⭐️ Show your support <a name="support"></a>
 
-<!-- ## ⭐️ Show your support <a id="support"></a>
+If you like this project consider giving it a star on GitHub!
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
